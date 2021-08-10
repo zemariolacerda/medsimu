@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedSimu</string>
+    <string name="clinical_case_item_diagnosis">Diagnóstico:</string>
+</resources>
